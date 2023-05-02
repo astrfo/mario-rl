@@ -33,7 +33,7 @@ where:
 1: downsampled ROM  
 2: pixel ROM  
 3: rectangle ROM  
-For example, to play 4-2 on the downsampled ROM, you would use the environment id SuperMarioBros-4-2-v1. 
+For example, to play 4-2 on the downsampled ROM, you would use the environment id SuperMarioBros-4-2-v1.
 
 詳しくみたい方は[こちら](https://github.com/Kautenja/gym-super-mario-bros)にどうぞ．
 
